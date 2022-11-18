@@ -1,3 +1,5 @@
+## README
+
 - clone project
 - create database dengan nama yang sama di dalam .env
 - php artisan migrate
